@@ -1,0 +1,5 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore the venv folder (virtual environment)
+venv/
